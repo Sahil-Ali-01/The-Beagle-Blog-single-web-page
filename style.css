@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing:border-box ;
+}
+body{
+    padding: 15px;
+}
+.section_1{
+    padding: 12px;
+    border: 1px solid;
+}
+h1{
+    padding: 12px;
+    text-decoration: underline;
+}
+.section_1 p {
+    margin-bottom: 22px;
+}
+.read_more {
+    text-decoration: none;
+}
+.dog_container {
+    margin-bottom: 12px;
+}
+.section_2 {
+    margin-bottom: 12px;
+}
+.section_2 img {
+    width: 300px;
+}
+.more_images {
+    text-decoration: none;
+}
+.section_3{
+    margin-top: 12px;
+}
+.list_conainer{
+    padding: 0px 18px;
+}
